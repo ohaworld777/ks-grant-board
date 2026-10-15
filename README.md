@@ -1,5 +1,5 @@
 # 코리아사이언스 정부지원 공고 보드
 
-▶ https://ohaworld777.github.io/ks-grant-board/
+▶ https://ohaworld777.github.io/ks-grant-board/  (최신 보드로 자동 연결)
 
 매주 화요일 09:00 주간 유망 공고 회의용. 로봇(에코나비)·코딩 교재(아레스)·초등 STEM 교구에 맞는 정부지원 공고를 모아 소개와 원문 바로가기를 둡니다.
